@@ -8,3 +8,6 @@
 <a href="https://discordapp.com/users/1142084137038119052">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
+<a href="https://instagram.com/frdinoogr">
+<img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
